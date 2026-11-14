@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3730a3,100:06b6d4&height=210&section=header&text=Debjeet%20Ghosh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Engineer%20%7C%20System%20Architect%20%7C%20Automation%20%7C%20AI&descAlignY=60&descSize=17)
@@ -216,4 +216,3 @@ I'm interested in connecting with engineers, architects, and technology professi
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3730a3,100:0f172a&height=110&section=footer)
 
 </div>
-```
