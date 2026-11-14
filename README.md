@@ -1,17 +1,19 @@
-
+```markdown
 <div align="center">
 
-# Hi, I'm Debjeet Ghosh 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3730a3,100:06b6d4&height=210&section=header&text=Debjeet%20Ghosh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Engineer%20%7C%20System%20Architect%20%7C%20Automation%20%7C%20AI&descAlignY=60&descSize=17)
 
-### IT Engineer | System Architect | Cloud & Automation | Software Engineering | AI
+### Engineering systems that scale. Automating complexity.
 
-**Building secure, scalable and automation-driven software and enterprise technology solutions.**
+**Cloud Engineering • Software Architecture • Enterprise Automation • AI**
 
-📍 Berlin, Germany
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debjeet777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjeet-ghosh-3883b91aa/)
+[![Portfolio](https://img.shields.io/badge/My_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debjeet777?tab=repositories)
 
-[![GitHub](https://img.shields.io/badge/GitHub-debjeet777-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/debjeet777)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Debjeet_Ghosh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjeet-ghosh-3883b91aa/)
-[![Repositories](https://img.shields.io/badge/Explore-Repositories-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/debjeet777?tab=repositories)
+![Location](https://img.shields.io/badge/Based_in-Berlin%2C_Germany-334155?style=flat-square&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Engineering_%26_Automation-0891b2?style=flat-square)
+![Interests](https://img.shields.io/badge/Interests-AI_%26_Systems_Architecture-7c3aed?style=flat-square)
 
 </div>
 
@@ -19,93 +21,133 @@
 
 ## 👨‍💻 About Me
 
-I am an IT engineer working across enterprise software engineering, system architecture, cloud platforms, infrastructure, automation and technology integration.
+I'm an **IT Engineer and System Architect** focused on designing secure, scalable, and automation-driven enterprise technology solutions.
 
-My work focuses on designing and maintaining reliable solutions that simplify complex business processes, improve operational efficiency and support secure, scalable enterprise environments.
+My engineering work connects **software development, cloud infrastructure, system integration, identity management, and intelligent automation**.
 
-I enjoy connecting software development with infrastructure, cloud services, APIs and automation to build practical systems that solve real-world problems.
+I enjoy translating complex business and technical requirements into maintainable systems that improve reliability, efficiency, and operational workflows.
 
-### Areas of Focus
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **System Architecture:** Application architecture, service integration, scalable systems and maintainability.
-- **Software Engineering:** Backend development, APIs, application integration and database-driven systems.
-- **Cloud & Enterprise Platforms:** Microsoft Azure, Microsoft 365, Microsoft Entra ID and enterprise services.
-- **Automation:** Workflow orchestration, scripting, process optimization and operational automation.
-- **Security & Governance:** Identity, access control, secure integrations and engineering quality.
-- **AI Engineering:** AI-assisted development, intelligent automation and applied AI systems.
-- **DevOps & Infrastructure:** Git workflows, CI/CD, Linux, Windows Server and virtualization.
+### 🏗️ What I Build
+
+- Enterprise applications and integrations
+- Backend services and REST APIs
+- Automation workflows
+- Database-driven applications
+- Cloud-connected solutions
+- AI-assisted engineering tools
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Engineering Focus
+
+- System and solution architecture
+- Secure software engineering
+- Workflow and process automation
+- Cloud and infrastructure engineering
+- AI integration and orchestration
+- Reliability and maintainability
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏗️ Engineering Expertise
+## ⚡ Technology Ecosystem
 
-| Domain | Focus |
-|---|---|
-| Enterprise Architecture | Application architecture, integration and solution design |
-| Software Development | APIs, backend services, web applications and databases |
-| Cloud Engineering | Azure, Microsoft 365 and enterprise cloud integration |
-| Automation | Power Automate, PowerShell, Python and workflow automation |
-| Identity & Security | Entra ID, authentication, authorization and access governance |
-| Infrastructure | Windows Server, Linux, virtualization and deployment |
-| AI Engineering | AI integration, developer tooling and intelligent workflows |
-| DevSecOps | Version control, CI/CD, testing and security practices |
+<div align="center">
 
----
+### 💻 Languages & Development
 
-## 🛠️ Technology Stack
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,cs,bash,powershell&theme=dark)](https://skillicons.dev)
 
-### Cloud & Enterprise Platforms
+### ☁️ Cloud, Infrastructure & DevOps
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=azure,aws,linux,windows,docker,kubernetes,terraform,git,github,gitlab&theme=dark)](https://skillicons.dev)
+
+### 🗄️ Data, Engineering & Tools
+
+[![Skills](https://skillicons.dev/icons?i=postgres,sqlite,vscode,postman,githubactions,fastapi&theme=dark)](https://skillicons.dev)
+
+### 🏢 Enterprise Platforms
+
+![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-2563EB?style=flat-square&logo=microsoft&logoColor=white)
 
-### Programming & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### Databases & Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-
-### Development & Delivery
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Engineering & Projects
+## 🧭 Engineering Capabilities
 
-My GitHub repositories reflect my exploration and development work across software engineering, automation, cloud infrastructure and emerging technologies.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I value engineering projects that demonstrate:
+### ☁️ Cloud & Enterprise
 
-- Clear requirements and architecture.
-- Maintainable, version-controlled implementation.
-- Secure development practices.
-- Testing and verification.
-- Practical application and measurable engineering outcomes.
-- Continuous improvement.
+Azure • Microsoft 365 • Entra ID
 
-**Project availability and maturity vary.** Repository documentation is the authoritative source for each project's current status.
+Cloud integration, identity, enterprise platforms, and operational workflows.
 
-[![Explore Repositories](https://img.shields.io/badge/Explore_My_GitHub_Repositories-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debjeet777?tab=repositories)
+</td>
+<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+Python • JavaScript • Node.js • APIs
+
+Backend services, application architecture, integration, and databases.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Automation & Infrastructure
+
+PowerShell • Power Automate • Linux
+
+Workflow automation, scripting, infrastructure, and operational efficiency.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Intelligent Systems
+
+AI Integration • Agents • Orchestration
+
+Applied AI engineering, developer assistance, and intelligent automation.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Engineering Portfolio
+
+<div align="center">
+
+### Projects, Experiments & Open-Source Engineering
+
+I explore software architecture, enterprise automation, infrastructure, and AI through hands-on engineering.
+
+**Explore my public repositories to see the latest available work.**
+
+[![Explore Projects](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debjeet777?tab=repositories)
+
+</div>
+
+> **Project transparency:** My public repositories may include active development, experiments, historical work, and archived projects. Individual repository documentation provides the relevant project status.
 
 ---
 
@@ -113,72 +155,65 @@ I value engineering projects that demonstrate:
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=debjeet777&style=flat-square&color=0e75b6)](https://github.com/debjeet777)
+[![Profile Views](https://komarev.com/ghpvc/?username=debjeet777&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/debjeet777)
 
-[![Recent Activity](https://img.shields.io/badge/Recent_Activity-View_Contributions-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/debjeet777#user-activity-overview)
-[![Repositories](https://img.shields.io/badge/Public_Repositories-Explore-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/debjeet777?tab=repositories)
+[![Contributions](https://img.shields.io/badge/VIEW-CONTRIBUTION_ACTIVITY-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debjeet777#user-activity-overview)
+[![Repositories](https://img.shields.io/badge/VIEW-PUBLIC_REPOSITORIES-334155?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debjeet777?tab=repositories)
 
 </div>
 
-My public contributions and repository history provide a view of my ongoing engineering work.
+My GitHub activity reflects public engineering work, experiments, and contributions.
 
-I prioritize meaningful development, maintainable solutions and verifiable engineering outcomes over contribution streaks or artificial activity metrics.
-
----
-
-## ⚙️ Engineering Principles
-
-| Principle | Approach |
-|---|---|
-| Security by Design | Build security into architecture and implementation |
-| Automation First | Reduce repetitive and error-prone manual processes |
-| Maintainability | Prefer understandable and sustainable solutions |
-| Evidence-Driven Engineering | Validate assumptions through testing and verification |
-| Version Control | Track changes and preserve engineering history |
-| Separation of Concerns | Keep systems modular and responsibilities explicit |
-| Continuous Improvement | Improve solutions through feedback and measurement |
-| Responsible AI | Keep security-critical decisions under explicit controls |
-
-I believe strong engineering combines practical problem-solving with structured architecture, disciplined implementation and reliable operations.
+I prioritize **engineering quality, maintainable architecture, tested changes, and meaningful technical outcomes** over activity streaks or inflated statistics.
 
 ---
 
-## 🎓 Professional Development
-
-![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-AZ--104-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-**Microsoft Certified: Azure Administrator Associate (AZ-104)**
-
-I continue developing my expertise in:
-
-- Cloud and enterprise architecture.
-- Software engineering and system integration.
-- Automation and infrastructure.
-- Security and identity management.
-- AI-assisted engineering and intelligent systems.
-- Modern development and delivery practices.
-
----
-
-## 🤝 Collaboration
-
-I am interested in engineering ideas and knowledge sharing around enterprise platforms, software architecture, automation, AI and infrastructure.
-
-My GitHub profile serves as a professional engineering portfolio and a place to share selected public technical work.
-
-For professional networking, connect with me on LinkedIn.
-
----
+## 🛡️ Engineering Philosophy
 
 <div align="center">
 
-### Let's Connect
+| 🔐 Security | 🏗️ Architecture | ⚙️ Automation |
+|:---:|:---:|:---:|
+| Security by design | Maintainable systems | Reduce manual work |
+| Least privilege | Clear boundaries | Repeatable workflows |
+| Secure integration | Scalability | Operational efficiency |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjeet-ghosh-3883b91aa/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debjeet777)
-
-**Berlin, Germany**
-
-*Engineering reliable systems. Automating complexity. Building for the future.*
+| 🧪 Engineering Quality | 🤖 Responsible AI | 🚀 Delivery |
+|:---:|:---:|:---:|
+| Testing and validation | Human oversight | Version control |
+| Evidence-driven decisions | Controlled integrations | CI/CD practices |
+| Continuous improvement | Explicit trust boundaries | Clear documentation |
 
 </div>
+
+---
+
+## 🎓 Professional Credentials
+
+<div align="center">
+
+![Certification](https://img.shields.io/badge/Microsoft_Certified-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Microsoft Azure Administrator Associate — AZ-104**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm interested in connecting with engineers, architects, and technology professionals working across **cloud, automation, software engineering, infrastructure, and AI**.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjeet-ghosh-3883b91aa/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debjeet777)
+
+<br>
+
+**Engineering reliable systems · Automating complexity · Building for the future**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3730a3,100:0f172a&height=110&section=footer)
+
+</div>
+```
